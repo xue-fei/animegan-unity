@@ -543,7 +543,7 @@ MonoBehaviour:
   rawImage: {fileID: 625476771}
   sourceTexture: {fileID: 2800000, guid: e49a41330d329e34eb20779f8943c29d, type: 3}
   resultTexture: {fileID: 8400000, guid: 22353671a3c877b42b805248001d5e30, type: 2}
-  modelAsset: {fileID: 5022602860645237092, guid: 413f3bf0143088c428063d98845376c1, type: 3}
+  modelAsset: {fileID: 5022602860645237092, guid: 3c48577de68d1504aa68252fff2ba694, type: 3}
 --- !u!1 &1951565658
 GameObject:
   m_ObjectHideFlags: 0
